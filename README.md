@@ -19,7 +19,7 @@ text
 Display Filter: dhcp || http
 
 
-![DHCP WIRESHARK](Screenshot-2026-26-22-032228.png)
+![DHCP WIRESHARK](Screenshot2026-26-22-032228.png)
 
 
 
@@ -67,7 +67,7 @@ By inspecting the first nibble (4 bits) of the IP header in hex/binary represent
 
 
 
-![Affected Machine and Host](Screenshot-2026-09-22-032811.png)
+![Affected Machine and Host](Screenshot2026-09-22-032811.png)
 
 ---
 
