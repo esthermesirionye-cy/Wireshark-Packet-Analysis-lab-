@@ -19,7 +19,7 @@ text
 Display Filter: dhcp || http
 
 
-![DHCP WIRESHARK](Screenshot-2026-26-22-032228.png)
+![DHCP WIRESHARK](Screenshot-2026-09-22-032228.png)
 
 
 
