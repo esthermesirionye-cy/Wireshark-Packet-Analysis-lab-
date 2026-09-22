@@ -19,6 +19,9 @@ text
 Display Filter: dhcp || http
 
 
+![DHCP WIRESHARK](Screenshot-2026-26-22-032228.png)
+
+
 
 ---
 
@@ -61,6 +64,10 @@ By inspecting the first nibble (4 bits) of the IP header in hex/binary represent
 * *MAC Address Anatomy:* A MAC address consists of 12 hexadecimal digits (48 bits).
 * *OUI Decoding:* The first 6 hexadecimal digits (24 bits) represent the *Organizationally Unique Identifier (OUI)* assigned to the Hardware Vendor/Manufacturer.
 * *Application:* Extracting the OUI allows security analysts to verify whether an endpoint is an expected enterprise device (e.g., Dell, Cisco, Intel) or an unauthorized rogue device.
+
+
+
+![Affected Machine and Host](Screenshot-2026-09-22-032811.png)
 
 ---
 
